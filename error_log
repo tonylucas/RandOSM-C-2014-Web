@@ -1,0 +1,378 @@
+[03-Mar-2014 21:10:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'pclzip.lib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/theobou/randOSM/application/libraries/zipper.php on line 275
+[03-Mar-2014 21:12:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'pclzip.lib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/theobou/randOSM/application/libraries/zipper.php on line 275
+[03-Mar-2014 21:13:46 UTC] PHP Fatal error:  Call to a member function library() on a non-object in /home/theobou/randOSM/application/libraries/zipper.php on line 277
+[03-Mar-2014 21:17:55 UTC] PHP Fatal error:  Call to undefined function PclTraceFctStart() in /home/theobou/randOSM/application/libraries/PclZip.php on line 217
+[03-Mar-2014 21:20:37 UTC] PHP Fatal error:  Call to undefined function PclTraceFctStart() in /home/theobou/randOSM/application/libraries/PclZip.php on line 217
+[03-Mar-2014 21:21:13 UTC] PHP Fatal error:  Call to undefined function PclTraceFctStart() in /home/theobou/randOSM/application/libraries/PclZip.php on line 217
+[03-Mar-2014 21:24:02 UTC] PHP Fatal error:  Call to undefined function PclTraceFctStart() in /home/theobou/randOSM/application/libraries/PclZip.php on line 217
+[03-Mar-2014 22:36:17 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 145
+[03-Mar-2014 22:37:57 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 149
+[03-Mar-2014 22:40:19 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 150
+[04-Mar-2014 15:45:07 Europe/Paris] PHP Fatal error:  Call to undefined function write_file() in /home/theobou/randOSM/application/controllers/create_hike.php on line 78
+[04-Mar-2014 15:45:20 Europe/Paris] PHP Fatal error:  Call to undefined function write_file() in /home/theobou/randOSM/application/controllers/create_hike.php on line 78
+[04-Mar-2014 15:47:24 Europe/Paris] PHP Fatal error:  Call to undefined function write_file() in /home/theobou/randOSM/application/controllers/create_hike.php on line 78
+[04-Mar-2014 14:48:22 UTC] PHP Fatal error:  Class 'CI_Zip' not found in /home/theobou/randOSM/application/libraries/my_zip.php on line 3
+[04-Mar-2014 15:58:58 Europe/Paris] PHP Fatal error:  Call to undefined function rrmdir() in /home/theobou/randOSM/application/controllers/create_hike.php on line 99
+[04-Mar-2014 16:01:22 Europe/Paris] PHP Fatal error:  Call to undefined function thisrrmdir() in /home/theobou/randOSM/application/controllers/create_hike.php on line 99
+[04-Mar-2014 16:02:08 Europe/Paris] PHP Fatal error:  Call to undefined function rrmdir() in /home/theobou/randOSM/application/controllers/create_hike.php on line 99
+[04-Mar-2014 15:10:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 20
+[04-Mar-2014 17:54:57 Europe/Paris] PHP Fatal error:  Call to a member function open() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 78
+[04-Mar-2014 17:12:45 UTC] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/theobou/randOSM/application/controllers/index.php on line 99
+[04-Mar-2014 20:12:53 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[04-Mar-2014 21:35:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[04-Mar-2014 21:38:09 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[04-Mar-2014 21:40:21 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[04-Mar-2014 22:11:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[04-Mar-2014 23:06:54 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 18
+[04-Mar-2014 23:08:17 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 18
+[04-Mar-2014 23:09:10 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 18
+[05-Mar-2014 00:18:25 Europe/Paris] PHP Fatal error:  Call to undefined method DOMDocument::appendXML() in /home/theobou/randOSM/application/controllers/create_hike.php on line 78
+[05-Mar-2014 00:22:45 Europe/Paris] PHP Fatal error:  Call to a member function appendChild() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 79
+[04-Mar-2014 23:46:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 86
+[04-Mar-2014 23:46:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 86
+[04-Mar-2014 23:46:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 86
+[04-Mar-2014 23:47:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 86
+[04-Mar-2014 23:48:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 86
+[05-Mar-2014 01:05:29 Europe/Paris] PHP Fatal error:  Call to undefined function rrmdir() in /home/theobou/randOSM/application/controllers/create_hike.php on line 82
+[05-Mar-2014 01:07:27 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:140
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(140): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(82): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 140
+[05-Mar-2014 12:37:47 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 12:38:46 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 14:05:23 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 14:05:54 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 14:09:43 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 14:11:57 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 123
+[05-Mar-2014 14:14:25 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 124
+[05-Mar-2014 14:16:49 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 124
+[05-Mar-2014 14:16:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 20
+[05-Mar-2014 14:19:49 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 124
+[05-Mar-2014 14:20:15 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 125
+[05-Mar-2014 14:22:31 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 125
+[05-Mar-2014 14:22:55 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 125
+[05-Mar-2014 14:24:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 21
+[05-Mar-2014 14:25:47 UTC] PHP Fatal error:  Call to a member function add_dir() on a non-object in /home/theobou/randOSM/application/controllers/create_hike.php on line 121
+[05-Mar-2014 14:26:07 UTC] PHP Fatal error:  Call to undefined method CI_Zip::get_files_from_folder() in /home/theobou/randOSM/application/controllers/create_hike.php on line 124
+[05-Mar-2014 15:40:09 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:140
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(140): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 140
+[05-Mar-2014 15:51:06 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:140
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(140): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 140
+[05-Mar-2014 15:51:43 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:140
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(140): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 140
+[05-Mar-2014 15:53:51 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:140
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(140): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 140
+[05-Mar-2014 15:56:48 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:148
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(148): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 148
+[05-Mar-2014 15:57:48 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/tmp/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:148
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(148): RecursiveDirectoryIterator->__construct('./hiking/tmp/')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(81): Create_hike->rrmdir('./hiking/tmp/')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 148
+[05-Mar-2014 19:56:32 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/640e765f8ab1b4f613515a5df1e90470/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:178
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(178): RecursiveDirectoryIterator->__construct('./hiking/640e76...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(83): Create_hike->rrmdir('./hiking/640e76...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 178
+[05-Mar-2014 19:59:41 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/6b5eb542e9ea703f00c6480b4398f3cc/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:178
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(178): RecursiveDirectoryIterator->__construct('./hiking/6b5eb5...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(83): Create_hike->rrmdir('./hiking/6b5eb5...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 178
+[05-Mar-2014 19:59:42 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/6b5eb542e9ea703f00c6480b4398f3cc/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:178
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(178): RecursiveDirectoryIterator->__construct('./hiking/6b5eb5...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(83): Create_hike->rrmdir('./hiking/6b5eb5...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 178
+[05-Mar-2014 19:59:42 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/6b5eb542e9ea703f00c6480b4398f3cc/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:178
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(178): RecursiveDirectoryIterator->__construct('./hiking/6b5eb5...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(83): Create_hike->rrmdir('./hiking/6b5eb5...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 178
+[07-Mar-2014 22:54:14 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/86edfcc1a5c2a0027a519b6dc985c133/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:159
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(159): RecursiveDirectoryIterator->__construct('./hiking/86edfc...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(64): Create_hike->rrmdir('./hiking/86edfc...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 159
+[07-Mar-2014 23:15:20 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/50763d1abbca1d56da59b37138456239/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:159
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(159): RecursiveDirectoryIterator->__construct('./hiking/50763d...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(64): Create_hike->rrmdir('./hiking/50763d...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 159
+[07-Mar-2014 23:17:03 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/50763d1abbca1d56da59b37138456239/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:159
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(159): RecursiveDirectoryIterator->__construct('./hiking/50763d...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(64): Create_hike->rrmdir('./hiking/50763d...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 159
+[07-Mar-2014 23:17:56 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/25b4314cea223e23437dcd9b14f410a8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:160
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(160): RecursiveDirectoryIterator->__construct('./hiking/25b431...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(65): Create_hike->rrmdir('./hiking/25b431...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 160
+[07-Mar-2014 23:20:08 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/25b4314cea223e23437dcd9b14f410a8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:160
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(160): RecursiveDirectoryIterator->__construct('./hiking/25b431...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(65): Create_hike->rrmdir('./hiking/25b431...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 160
+[07-Mar-2014 23:25:26 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/d7c8459192c7f3d8e1380968a96ce6e0/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:160
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(160): RecursiveDirectoryIterator->__construct('./hiking/d7c845...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(65): Create_hike->rrmdir('./hiking/d7c845...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 160
+[07-Mar-2014 23:53:29 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/10b4fa27d48e16fa5f5827ba928eaebc/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:158
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(158): RecursiveDirectoryIterator->__construct('./hiking/10b4fa...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/10b4fa...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 158
+[07-Mar-2014 23:56:32 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/a738a1724ed0e80a2ed74e6155fcd9d5/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/a738a1...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/a738a1...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:16:38 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/0ada3db0ce0e3e1105a0358ce319d250/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/0ada3d...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/0ada3d...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:18:22 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/0ada3db0ce0e3e1105a0358ce319d250/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/0ada3d...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/0ada3d...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:19:10 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/0ada3db0ce0e3e1105a0358ce319d250/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/0ada3d...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/0ada3d...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:26:48 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/ecd428bf40091f2f82bd8b8f0edb7100/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/ecd428...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/ecd428...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:28:03 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/ecd428bf40091f2f82bd8b8f0edb7100/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/ecd428...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/ecd428...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[08-Mar-2014 00:29:24 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/b60733cbccacf49b143111527cae863a/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:155
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(155): RecursiveDirectoryIterator->__construct('./hiking/b60733...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(62): Create_hike->rrmdir('./hiking/b60733...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 155
+[07-Mar-2014 23:30:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 61
+[07-Mar-2014 23:30:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/theobou/randOSM/application/controllers/create_hike.php on line 61
+[08-Mar-2014 00:31:52 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/b60733cbccacf49b143111527cae863a/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/b60733...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/b60733...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:33:55 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/b60733cbccacf49b143111527cae863a/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/b60733...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/b60733...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:34:30 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/f1d016b54794be375bbcedffe9cc0728/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/f1d016...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/f1d016...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:38:51 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/d000d7515df9700bce6c02a8d210abf9/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/d000d7...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/d000d7...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:42:27 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/c4c29339e15cc32d5aea05b2bcb226b8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/c4c293...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/c4c293...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:50:12 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/434badf2bdafd5beff1b2f91c00197b8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/434bad...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/434bad...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:51:06 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/434badf2bdafd5beff1b2f91c00197b8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/434bad...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/434bad...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 00:52:46 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/434badf2bdafd5beff1b2f91c00197b8/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/434bad...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/434bad...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 01:03:23 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/8b70c75d9cee2b75f626fdb344321bfd/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/8b70c7...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/8b70c7...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 17:03:22 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/6408cf431926b87cc1b44b6c2a737f16/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/6408cf...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/6408cf...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
+[08-Mar-2014 18:05:00 Europe/Paris] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(./hiking/9d12eaf34922fd4d69139e8c2fe05555/): failed to open dir: No such file or directory' in /home/theobou/randOSM/application/controllers/create_hike.php:156
+Stack trace:
+#0 /home/theobou/randOSM/application/controllers/create_hike.php(156): RecursiveDirectoryIterator->__construct('./hiking/9d12ea...')
+#1 /home/theobou/randOSM/application/controllers/create_hike.php(63): Create_hike->rrmdir('./hiking/9d12ea...')
+#2 [internal function]: Create_hike->create()
+#3 /home/theobou/randOSM/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/theobou/randOSM/index.php(204): require_once('/home/theobou/r...')
+#5 {main}
+  thrown in /home/theobou/randOSM/application/controllers/create_hike.php on line 156
